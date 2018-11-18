@@ -1,0 +1,50 @@
+/*
+   CIS 131 Web Dev II
+   Express Server
+
+   Author: Anthony Forte
+   Date: 11/16/2018
+
+   Filename: styles.css
+*/
+
+html {
+    font-size: 14px;
+    font-family: Tahoma,Verdana,sans-serif; 
+ }
+
+body { 
+    padding-top: 50px;
+    background-color: #2B3E4F;
+    width: 40%;
+    margin: 0 auto;
+}
+.container .welcome {
+    border-radius: 40px; 
+    background-color: #4D5D6C;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+h2, p {
+    text-align: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    background-color: rgb(228, 141, 42);
+    padding: 10px;
+    border: 5px solid #2B3E4F;
+    border-radius: 10px;
+}
